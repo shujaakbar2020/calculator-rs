@@ -1,4 +1,4 @@
-# MyRustApp
+# Calculator with Rust
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/my-rust-app/ci.yml?branch=main)](https://github.com/your-username/my-rust-app/actions)
 [![Crates.io](https://img.shields.io/crates/v/myrustapp.svg)](https://crates.io/crates/myrustapp)
